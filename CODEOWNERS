@@ -1,0 +1,9 @@
+# zsel-catalog CODEOWNERS
+
+courses/                  @content-team @education-team
+resources/                @content-team
+assignments/              @content-team @education-team
+media/                    @content-team @media-team
+
+docs/                     @content-team
+CONTRIBUTING.md           @content-team

@@ -1,9 +1,9 @@
 # zsel-catalog CODEOWNERS
 
-courses/                  @content-team @education-team
-resources/                @content-team
-assignments/              @content-team @education-team
-media/                    @content-team @media-team
+courses/                  @content-team @education-team @lkolo-prez
+resources/                @content-team @lkolo-prez
+assignments/              @content-team @education-team @lkolo-prez
+media/                    @content-team @media-team @lkolo-prez
 
-docs/                     @content-team
-CONTRIBUTING.md           @content-team
+docs/                     @content-team @lkolo-prez
+CONTRIBUTING.md           @content-team @lkolo-prez
